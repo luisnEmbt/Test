@@ -20,4 +20,10 @@ object Form1: TForm1
     TabOrder = 1
     Text = 'Button2'
   end
+  object Button3: TButton
+    Position.X = 296.000000000000000000
+    Position.Y = 120.000000000000000000
+    TabOrder = 2
+    Text = 'Button3'
+  end
 end
